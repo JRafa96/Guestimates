@@ -1,0 +1,33 @@
+.name-input {
+    width: 100%;
+    display: flex;
+    height: 30px;
+    border-radius: 5px;
+    background-color: unset;
+}
+
+.MuiInputBase-root {
+    width: 100%;
+    height: 30px;
+}
+
+.support-checkbox {
+    text-align: right;
+}
+
+.checkbox_support_container {
+    padding-left: 5px;
+    height: 30px;
+}
+
+.task_row_container th {
+    text-align: center;
+}
+
+.task-value-row-container.light {
+    background-color: whitesmoke;
+}
+
+.task-value-row-container.dark {
+    background-color: lightgrey;
+}
